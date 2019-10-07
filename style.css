@@ -1,0 +1,6 @@
+/* Selects any <input> when focused */
+input:focus {
+  color: red;
+}
+
+border: thick double #32a1ce;
